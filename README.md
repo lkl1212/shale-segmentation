@@ -1,3 +1,3 @@
 # shale-segmentation
 
-The code is coming...
+This project is a program for Shale Segmentation based on TransUnet
